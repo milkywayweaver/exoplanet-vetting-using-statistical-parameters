@@ -1,0 +1,20 @@
+name: ds-pt
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - seaborn
+  - matplotlib
+  - numpy
+  - ipykernel
+  - tqdm
+  - jupyter
+  - scikit-learn
+  - imbalanced-learn
+  - torchvision
+  - pytorch
+  - xgboost
+  - astropy
+  - minisom
+prefix: /home/milkywayweaver/miniconda3/envs/ds-pt
